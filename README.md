@@ -1,4 +1,8 @@
 # Ozi-Bots-V13
+
+Proje genel olarak [Jaylen Ozi'ye](https://github.com/JaylenOzi) ait de olsa aralara ufak ufak kod serpiştirdiğim yardım etmeye çalıştığım bir proje Ozi'nin ellerine sağlık. Lütfen iletişime geçmeden önce ozi.js dosyasını okuyun.
+
+------------------------------------------------------------------------------------------
 Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
 
 # Görseller
