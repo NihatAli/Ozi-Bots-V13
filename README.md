@@ -1,5 +1,7 @@
 # Ozi-Bots-V13
 
+Ücretli bot yaptırmak isteyen bilgi için DM: Jaylen#9097 yada SnowOuts#0119
+
 Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
 
 # Görseller
