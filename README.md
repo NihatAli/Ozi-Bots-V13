@@ -1,5 +1,8 @@
 # Ozi-Bots-V13
 
+Kurulum: Modülleri indirme npm i pm2 --g 
+Başlatma: pm2 start all 
+
 Botumun en eski pm2 hali yukarıdadır yeni hali 2 kişide var isim soyisimleri var ve asla paylaşılmayacaktır yeni hali yoksa dava açarım.
 Yeni halini almak isteyenler bana ulaşabilir.
 Eski halini paylaşma sebebim salak insanların tehdit ve rat gibi sebeplerle çocuklardan almasıdır.
