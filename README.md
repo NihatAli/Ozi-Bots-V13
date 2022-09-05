@@ -1,6 +1,6 @@
 # Ozi-Bots-V13
 
-Kurulum: Modülleri indirme npm i pm2 --g 
+Kurulum: Modülleri indirme npm i -g pm2 
 Başlatma: pm2 start app.config.js 
 
 Botumun en eski pm2 hali yukarıdadır yeni hali 2 kişide var isim soyisimleri var ve asla paylaşılmayacaktır yeni hali yoksa dava açarım.
