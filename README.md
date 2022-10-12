@@ -1,15 +1,15 @@
 # Ozi-Bots-V13
 
-Kurulum: Modülleri indirme npm i -g pm2 
-Başlatma: pm2 start app.config.js 
+Botun en güncel halini almak isteyenlere taksit seçeneği sunacağım artık dmden detayları öğrenebilirsiniz.
 
 Botumun en eski pm2 hali yukarıdadır yeni hali 2 kişide var isim soyisimleri var ve asla paylaşılmayacaktır yeni hali yoksa dava açarım.
 Yeni halini almak isteyenler bana ulaşabilir.
 Eski halini paylaşma sebebim salak insanların tehdit ve rat gibi sebeplerle çocuklardan almasıdır.
 
-Ücretli bot yaptırmak isteyen bilgi için DM: Jaylen#9097 yada SnowOuts#0119
-
 Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
+
+Kurulum: Modülleri indirme npm i -g pm2 
+Başlatma: pm2 start app.config.js 
 
 # Görseller
 ![image](https://user-images.githubusercontent.com/92666466/160767938-d9429181-31ed-4a90-bf88-5426573af712.png)
